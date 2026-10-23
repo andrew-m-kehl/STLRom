@@ -1,4 +1,4 @@
-#include "signal.h"
+#include "stlrom_signal.h"
 
 #ifndef STLROM_ROBUSTNESS_H
 #define STLROM_ROBUSTNESS_H

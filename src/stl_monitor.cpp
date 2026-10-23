@@ -1,7 +1,7 @@
 #include <fstream>
 #include <sstream>
 #include "tools.h"
-#include "signal.h"
+#include "stlrom_signal.h"
 #include "stl_monitor.h"
 
 namespace STLRom

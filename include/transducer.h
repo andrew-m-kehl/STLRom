@@ -7,7 +7,7 @@
 #include <string>
 #include "robustness.h"
 #include "interval.h"
-#include "signal.h"
+#include "stlrom_signal.h"
 
 using namespace std;
 

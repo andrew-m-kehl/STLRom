@@ -1,4 +1,4 @@
-#include "signal.h"
+#include "stlrom_signal.h"
 #include "iomanip"
 #include <vector>
 #include <sstream>

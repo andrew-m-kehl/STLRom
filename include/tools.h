@@ -13,7 +13,7 @@
 #include <vector>
 #include <map>
 #include <algorithm>
-#include "signal.h"
+#include "stlrom_signal.h"
 
 
 

@@ -8,7 +8,7 @@
 #ifndef SIGNAL_EXPR_H_
 #define SIGNAL_EXPR_H_
 
-#include "signal.h"
+#include "stlrom_signal.h"
 #include "transducer.h"
 
 namespace STLRom
